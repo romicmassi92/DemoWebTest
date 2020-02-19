@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4e62b35-58a4-4d18-b3b1-e81cba297b33" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XtRPgQ0h6fC5p0Zfw6qOWR8UT7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/Excelsheet" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Romic Masih\IdeaProjects\DemoNopTest\src\test\resources\Excelsheet" />
+      <recent name="C:\Users\Romic Masih\IdeaProjects\DemoNopTest\src\test\resources\BrowserDriver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestSuit">
+    <configuration name="TestSuit" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoNopTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest" />
+      <option name="MAIN_CLASS_NAME" value="WebTest.TestSuit" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.RegisteredUserShouldBeAbleToReferAFriendSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoNopTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest" />
+      <option name="MAIN_CLASS_NAME" value="WebTest.TestSuit" />
+      <option name="METHOD_NAME" value="RegisteredUserShouldBeAbleToReferAFriendSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.userShouldAbleToCompareTwoProducts" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoNopTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest" />
+      <option name="MAIN_CLASS_NAME" value="WebTest.TestSuit" />
+      <option name="METHOD_NAME" value="userShouldAbleToCompareTwoProducts" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.userShouldAbleToRegisterSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoNopTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest" />
+      <option name="MAIN_CLASS_NAME" value="WebTest.TestSuit" />
+      <option name="METHOD_NAME" value="userShouldAbleToRegisterSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestSuit" />
+        <item itemvalue="TestNG.TestSuit.RegisteredUserShouldBeAbleToReferAFriendSuccessfully" />
+        <item itemvalue="TestNG.TestSuit.userShouldAbleToCompareTwoProducts" />
+        <item itemvalue="TestNG.TestSuit.userShouldAbleToRegisterSuccessfully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4e62b35-58a4-4d18-b3b1-e81cba297b33" name="Default Changelist" comment="" />
+      <created>1581863381286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581863381286</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="870" y="195" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582154790555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="870" y="195" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1582154790555" />
+    <state x="499" y="105" key="FileChooserDialogImpl" timestamp="1582151123944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="105" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582151123944" />
+    <state width="1481" height="198" key="GridCell.Tab.0.bottom" timestamp="1582154883819">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582154883819" />
+    <state width="1481" height="198" key="GridCell.Tab.0.center" timestamp="1582154883819">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582154883819" />
+    <state width="1481" height="198" key="GridCell.Tab.0.left" timestamp="1582154883819">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582154883819" />
+    <state width="1481" height="198" key="GridCell.Tab.0.right" timestamp="1582154883819">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582154883819" />
+    <state x="278" y="0" key="Maven.ArtifactSearchDialog" timestamp="1582150140432">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="278" y="0" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1582150140432" />
+  </component>
+</project>
